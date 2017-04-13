@@ -1,6 +1,6 @@
-#markdown一步生成电子书: 支持PDF、Mobi、EPUB格式
+# markdown一步生成电子书: 支持PDF、Mobi、EPUB格式
 
-###简介
+### 简介
 
 在写电子书《[一步步搭建物联网系统](https://github.com/phodal/designiot)》的时候就为自己打造了一个生成HTML的生成脚本。
 
@@ -10,7 +10,7 @@
 
 接着，接着，接着，就有了这个代码库。:smile::smile::smile:
 
-##Usage
+## Usage
 
 1. 运行init.sh
 
@@ -36,7 +36,7 @@ make all
 make html
 ```
 
-##Setup
+## Setup
 
 1. 基本编译需要``pandoc``
 2. PDF要求环境Tex，推荐使用``TexLive``。

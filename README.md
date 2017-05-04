@@ -10,6 +10,16 @@
 
 接着，接着，接着，就有了这个代码库。:smile::smile::smile:
 
+## ShowCase
+
+*   《[Phodal's Idea实战指南](https://github.com/phodal/ideabook)》
+*   《[一步步搭建物联网系统](https://github.com/phodal/designiot)》
+*   《[GitHub 漫游指南](https://github.com/phodal/github-roam)》
+*   《[RePractise](https://github.com/phodal/repractise)》
+*   《[Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)》
+*   《[Growth: 全栈增长工程师实战](https://github.com/phodal/growth-in-action)》
+*   《[我的职业是前端工程师](https://github.com/phodal/fe)》
+
 ## Usage
 
 1. 运行init.sh
